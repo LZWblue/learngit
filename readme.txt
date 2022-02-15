@@ -5,10 +5,7 @@ Bejing winter Olympics.
 Take me home,contrylaod.
 Swallow tail is like scissors.
 My name is BingDun dun.
-<<<<<<< HEAD
 creating a new branch is quick and simple.
-=======
 Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
->>>>>>> feature1
 
