@@ -8,7 +8,7 @@ My name is BingDun dun.
 creating a new branch is quick and simple.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
-How are you?
+Are you?
 My eyes is forever.
 I am fine.
 yes
